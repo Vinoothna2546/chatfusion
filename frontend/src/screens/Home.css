@@ -1,0 +1,20 @@
+.Home{
+    min-height: 100vh;
+    display:flex;
+    background-image: url("../images/Design.png");
+    background-size: cover;
+    background-position: center;
+    font-weight: bolder;
+}
+.h5{
+    filter: brightness(20%);
+}
+.tabpage{
+     min-height: 100vh;
+    display:flex;
+    background-image: url("../images/logpagebackground.png");
+    background-size: cover;
+    background-position: center;
+    font-weight: bolder;
+    
+}

@@ -1,4 +1,4 @@
-Here’s a template for your project’s README file for the real-time chat application:
+
 
 ```markdown
 # Real-Time Chat Application
